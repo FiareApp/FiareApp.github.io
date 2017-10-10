@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "* ImgurMashについて"
+title: "ImgurMashについて"
 published: true
 date: 2016-10-21 11:43
 comments: true
@@ -13,6 +13,3 @@ keywords:
 弊アプリ「[ImgurMash](https://play.google.com/store/apps/details?id=jp.tdyt.imgurmash&amp;hl=ja "ImgurMash")」に関しましては現在致命的なバグ修正などを除き更新を停止しております。
 
 ImgurMashについてのお問い合わせは受け付けておりますが、返信を行えない場合がございますことをご了承ください。
-
----
-※この記事は WordPress に投稿した記事を変換したものです。一部不自然な表示があるかも知れません。ご了承ください。また、記事タイトル先頭の * は WordPress から移行した記事である印です。

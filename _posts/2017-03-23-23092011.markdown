@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "* アプリ名を変更しました"
+title: "アプリ名を変更しました"
 published: true
 date: 2017-03-23 09:20
 comments: true
@@ -17,6 +17,3 @@ GooglePlayサポートチームより「ImgUrMash（パッケージ ID jp.tdyt.i
 Imgurというサービス名をアプリ名に使用していることが原因だと思われたため、ImgurMashはアップロードマッシュと名称を変更し、再度公開を行いました。
 
 ダウンロードページは以前と変更がありませんので、[こちら](https://play.google.com/store/apps/details?id=jp.tdyt.imgurmash&amp;hl=ja "こちら")からダウンロードすることができます。
-
----
-※この記事は WordPress に投稿した記事を変換したものです。一部不自然な表示があるかも知れません。ご了承ください。また、記事タイトル先頭の * は WordPress から移行した記事である印です。

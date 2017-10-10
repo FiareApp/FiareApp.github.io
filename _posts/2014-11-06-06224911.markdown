@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "* FiareAPP"
+title: "FiareAPP"
 published: true
 date: 2014-11-06 22:49
 comments: true
@@ -11,6 +11,3 @@ keywords:
 - 一般
 ---
 Blogを開設しました。
-
----
-※この記事は WordPress に投稿した記事を変換したものです。一部不自然な表示があるかも知れません。ご了承ください。また、記事タイトル先頭の * は WordPress から移行した記事である印です。
