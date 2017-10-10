@@ -1,0 +1,22 @@
+---
+layout: post
+title: "* アプリ名を変更しました"
+published: true
+date: 2017-03-23 09:20
+comments: true
+categories:
+- ニュース
+tags: []
+keywords:
+- ニュース
+---
+ImgurMashについて
+
+GooglePlayサポートチームより「ImgUrMash（パッケージ ID jp.tdyt.imgurmash）は、審査の結果、アプリのタイトルが**なりすまし**に関する Google のポリシーに違反しているため、Google Play から削除されました。」との通告があり一時的にストアからダウンロードできない状態になっていました。
+
+Imgurというサービス名をアプリ名に使用していることが原因だと思われたため、ImgurMashはアップロードマッシュと名称を変更し、再度公開を行いました。
+
+ダウンロードページは以前と変更がありませんので、[こちら](https://play.google.com/store/apps/details?id=jp.tdyt.imgurmash&amp;hl=ja "こちら")からダウンロードすることができます。
+
+---
+※この記事は WordPress に投稿した記事を変換したものです。一部不自然な表示があるかも知れません。ご了承ください。また、記事タイトル先頭の * は WordPress から移行した記事である印です。
